@@ -11,6 +11,7 @@ function calcular() {
     } else if (operacion === '*') {
       resultado = num1 * num2;
     } else if (operacion === '/') {
+        if()
       resultado = num1 / num2;
     }
   
